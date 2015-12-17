@@ -1,0 +1,14 @@
+{
+  "name": "routesasnodemodule",
+  "version": "1.0.0",
+  "description": "Sample example for usinf routes as node module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh Shahjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
