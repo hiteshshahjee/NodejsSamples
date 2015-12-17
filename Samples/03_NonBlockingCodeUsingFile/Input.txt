@@ -1,0 +1,2 @@
+Non blocking code using fle system in Node JS.
+The real power of event loop.

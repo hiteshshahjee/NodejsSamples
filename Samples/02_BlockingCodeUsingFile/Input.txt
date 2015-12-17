@@ -1,0 +1,1 @@
+Sample to test sync file read using node js
