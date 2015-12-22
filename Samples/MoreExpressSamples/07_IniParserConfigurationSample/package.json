@@ -1,0 +1,16 @@
+{
+  "name": "configurationsample",
+  "version": "0.0.1",
+  "description": "Config file sample",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "Hitesh Shahjee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "iniparser": "^1.0.5",
+    "jade": "^1.11.0"
+  }
+}

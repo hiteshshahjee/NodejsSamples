@@ -1,0 +1,17 @@
+{
+  "name": "errorhandlermiddleware",
+  "version": "0.0.1",
+  "description": "Sample for error handler middleware",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "Hitesh Shahjee",
+  "license": "ISC",
+  "dependencies": {
+    "errorhandler": "^1.4.2",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "response-time": "^2.3.1"
+  }
+}
