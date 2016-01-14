@@ -1,0 +1,18 @@
+html
+	head
+		title= title
+	body
+		h1=  title
+		p Enter your name and email address to become a member.
+		form(action='/signup', method='post', enctype='multipart/form-data')
+			div
+				label Name
+				input(type='text', name='name')
+			div
+				label Email
+				input(type='text', name='email')
+			div
+				label Profile Image
+				input(type='file', name='profile_images')
+			div
+				input(type='submit')

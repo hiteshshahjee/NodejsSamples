@@ -1,0 +1,16 @@
+{
+	"name": "formpostdemo",
+	"version": "0.0.1",
+	"description": "Sample program to demo form POST",
+	"main": "app.js",
+	"dependencies": {
+		"body-parser": "^1.14.2",
+		"express": "^4.13.3",
+		"jade": "^1.11.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test application specified\" && exit 1"
+	},
+	"author": "Hitesh Shahjee",
+	"license": "ISC"
+}
