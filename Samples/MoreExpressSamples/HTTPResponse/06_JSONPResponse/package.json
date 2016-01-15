@@ -1,0 +1,15 @@
+{
+	"name": "jsonpresponse",
+	"version": "0.0.1",
+	"description": "Sample program to demo JSONP response",
+	"main": "app.js",
+	"dependencies": {
+		"express": "^4.13.3"
+	},
+	"scripts": {
+		"start": "node app",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Hitesh Shahjee",
+	"license": "ISC"
+}
