@@ -1,0 +1,22 @@
+{
+  "name": "simpletddprogram",
+  "version": "0.0.1",
+  "description": "Simple program for tdd",
+  "main": "test.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha -w"
+  },
+  "author": "Hitesh Shahjee",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "superagent": "^1.6.1"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^4.0.0",
+    "mortalkombat": "0.0.1",
+    "underscore.string": "^3.2.3"
+  }
+}
